@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carweb/static/css/main.dfec95e9.css",
+    "main.js": "/carweb/static/js/main.fe587f9b.js",
+    "index.html": "/carweb/index.html",
+    "main.dfec95e9.css.map": "/carweb/static/css/main.dfec95e9.css.map",
+    "main.fe587f9b.js.map": "/carweb/static/js/main.fe587f9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfec95e9.css",
+    "static/js/main.fe587f9b.js"
+  ]
+}
